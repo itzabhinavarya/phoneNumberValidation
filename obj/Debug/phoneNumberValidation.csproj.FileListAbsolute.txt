@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\phoneNumberValidation\bin\Debug\phoneNumberValidation.exe.config
+C:\Users\hp\source\repos\phoneNumberValidation\bin\Debug\phoneNumberValidation.exe
+C:\Users\hp\source\repos\phoneNumberValidation\bin\Debug\phoneNumberValidation.pdb
+C:\Users\hp\source\repos\phoneNumberValidation\obj\Debug\phoneNumberValidation.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\phoneNumberValidation\obj\Debug\phoneNumberValidation.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\phoneNumberValidation\obj\Debug\phoneNumberValidation.exe
+C:\Users\hp\source\repos\phoneNumberValidation\obj\Debug\phoneNumberValidation.pdb
