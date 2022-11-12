@@ -72,12 +72,12 @@ namespace phoneNumberValidation
                                         if (isValidNumber(str) == "t")
                                         {
                                             // Printing the Number is valid 
-                                            Console.WriteLine("Number is Valid");
+                                            Console.WriteLine("----Number is Valid----");
                                         }
                                         else
                                         {
                                             // Else Printing the number is Invalid
-                                            Console.WriteLine("Invalid Number......");
+                                            Console.WriteLine("----Invalid Number----");
                                         }
                                         Console.ReadLine();
                                     }
@@ -110,7 +110,7 @@ namespace phoneNumberValidation
                 }
                 catch (FormatException err)
                 {
-                    Console.WriteLine("\nCan't Inputed String Value");
+                    Console.WriteLine("\nCan't Inputed String Value Or Null Value");
                     Console.WriteLine(err.Message+"\n\n");
                 }
             }
