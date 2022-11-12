@@ -41,6 +41,7 @@ namespace phoneNumberValidation
                 // A method which will gives us a choice menu to select what operation we hava to perform
                 choiceSelect();
                 // The choice number user is going to choose for the menu
+                
                 try
                 {
                     int choice = int.Parse(Console.ReadLine());
@@ -110,7 +111,7 @@ namespace phoneNumberValidation
                 }
                 catch (FormatException err)
                 {
-                    Console.WriteLine("\nCan't Inputed String Value Or Null Value");
+                    Console.WriteLine("\nCan't Inputed String Value , Null Value or Special Character");
                     Console.WriteLine(err.Message+"\n\n");
                 }
             }
